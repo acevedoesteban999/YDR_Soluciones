@@ -1,3 +1,7 @@
 [submodule "various_payment_plan"]
 	path = various_payment_plan
 	url = https://github.com/acevedoesteban999/various_payment_plan
+
+[submodule "plan_change_label"]
+	path = plan_change_label
+	url = https://github.com/acevedoesteban999/plan_change_label
